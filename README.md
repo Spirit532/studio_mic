@@ -13,8 +13,10 @@ With the setup pictured below, the results are, to the non-audiophool ear, perfe
 
   2. Same goes for the hex inverter in terms of power consumptionl, but otherwise anything will do. You can substitute the part with any 40106 clone of similar functionality.
   
-  3. Take care to purchase high voltage rated capacitors where specified - this is important! Ceramic capacitors lose capacitance at higher voltages, so X7R class caps rated at 100V or more are preferred. All values are  readily available in 0805 size, so it's not an issue.
+  3. Take care to purchase high voltage rated capacitors where specified - this is important! Ceramic capacitors lose capacitance at higher voltages, so X7R class caps rated at 100V or more are preferred(this won't explicitly solve derating, but it will help). All values are  readily available in 0805 size, so it's not an issue.
 
+  4. Choose C0G capacitors for ceramics if your budget allows. They'll improve performance a little bit, but not by a whole lot. (this will solve derating, but at significant cost)
+  
 The design is licensed under the MIT license. If you want to build it, go ahead. If you want to sell it, also go ahead, but just mention this page or something. Pretty much none of this is really original and has been done dozens of times, I just put my own twist on it.
 
 ## Get the board
