@@ -19,6 +19,10 @@ With the setup pictured below, the results are, to the non-audiophool ear, perfe
   
 The design is licensed under the MIT license. If you want to build it, go ahead. If you want to sell it, also go ahead, but just mention this page or something. Pretty much none of this is really original and has been done dozens of times(i.e. DJJules/Sound Sleuth over at Instructables, whose circuit I took inspiration from), I just put my own twist on it.
 
+#### Important note about cheap donor bodies
+Most cheap donor bodies will come pre-anodized or even pre-painted, including contact surfaces at separation points(circuit cover, headbasket, nut, spacers, etc), __make sure to sand them down__ to expose metal, or you'll pick up tons of mains hum and other external electrical noise!
+
+
 ## Get the board
 If you can't make or assemble the board yourself, you can order them here(shared PCBWay project, if you order there I get commission at no cost to you)
 
