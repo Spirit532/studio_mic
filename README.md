@@ -2,7 +2,7 @@
 
 I needed a good quality microphone, but all of the options available were either a bit pricy or just not really good in performance, so I decided to build my own.
 
-The microphone build uses a clone RK12 capsule($40-50 on Aliexpress/Ebay/etc), a U87 donor body($15-30, also there), and a custom preamp board($20-30).
+The microphone build uses a clone RK12/CK12 capsule($40-50 on Aliexpress/Ebay/etc, search for "edge terminated capsule"), a U87 donor body($15-30, also Aliexpress, search term "U87 mic"), and a custom preamp board($20-30, this project).
 
 The board is very simple, yet high performance - it uses a dual FET input opamp in a single package to both convert the capsule's impedance and provide a differential signal, while the bias is provided by a slightly cursed hex schmitt trigger inverter charge pump.
 
