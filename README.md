@@ -17,7 +17,7 @@ With the setup pictured below, the results are, to the non-audiophool ear, perfe
 
   4. Choose NP0/C0G capacitors for ceramics if your budget allows. They'll improve performance a little bit, but not by a whole lot. (this will solve derating, but at significant cost)
   
-The design is licensed under the MIT license. If you want to build it, go ahead. If you want to sell it, also go ahead, but just mention this page or something. Pretty much none of this is really original and has been done dozens of times, I just put my own twist on it.
+The design is licensed under the MIT license. If you want to build it, go ahead. If you want to sell it, also go ahead, but just mention this page or something. Pretty much none of this is really original and has been done dozens of times(i.e. DJJules/Sound Sleuth over at Instructables, whose circuit I took inspiration from), I just put my own twist on it.
 
 ## Get the board
 If you can't make or assemble the board yourself, you can order them here(shared PCBWay project, if you order there I get commission at no cost to you)
