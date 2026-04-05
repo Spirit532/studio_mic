@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Spirit532&project=studio_mic&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Simple, high quality condenser microphone for under $100
 
 I needed a good quality microphone, but all of the options available were either a bit pricy or just not really good in performance, so I decided to build my own.
